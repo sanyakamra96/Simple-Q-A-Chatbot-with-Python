@@ -1,0 +1,5 @@
+Django>=4.2
+chatterbot==1.2.8
+chatterbot_corpus==1.2.0
+SQLAlchemy<2.0
+spacy>=3.7,<3.8
